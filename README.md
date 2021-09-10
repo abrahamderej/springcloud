@@ -1,2 +1,2 @@
 # springcloud
-My First Spring Repository
+Spring Repository
